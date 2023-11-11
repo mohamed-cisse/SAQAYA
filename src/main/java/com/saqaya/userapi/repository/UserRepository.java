@@ -1,4 +1,4 @@
-package com.saqaya.userapi.reposatory;
+package com.saqaya.userapi.repository;
 
 import com.saqaya.userapi.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
